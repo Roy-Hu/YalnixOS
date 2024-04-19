@@ -1,0 +1,9 @@
+[submodule "terminal_driver"]
+	path = terminal_driver
+	url = https://github.com/Roy-Hu/terminal_driver.git
+[submodule "file_system"]
+	path = file_system
+	url = https://github.com/Roy-Hu/file_system.git
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/Roy-Hu/kernel.git
